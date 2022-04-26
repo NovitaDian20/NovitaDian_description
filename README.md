@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Novita Dian
-- 👀 I’m interested in Data Science, web development and android dev using Flutter
+- 👀 I’m interested in Research, Data Analytics, Data Science, Web development and android dev using Flutter
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me @novitadiananugrah instagram, www.linkedin.com/in/novita-dian-anugraheni-06 linkedin
 
